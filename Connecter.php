@@ -20,6 +20,11 @@ if ($conn->connect_error) {
 }
 //echo '<div style="color:white;margin">Connexion etablie.</div>';
 //  $conn->connect_error
+
+
+
+
+
 ?>
 </body>
 </html>

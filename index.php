@@ -9,7 +9,7 @@
 </head>
 <body style="background: url('254381.jpg') no-repeat center / cover">
     <div class="wrapper">
-        <form onsubmit="return valideforme()" action= "verifAuth.php" method="POST" >
+      <form  action= "verifAuth.php" onsubmit="return valideforme()" method="POST" >
             <h1>Login</h1>
             <div class="input-box">
                 <input type="text" name="username" id="username" placeholder="Username" >
